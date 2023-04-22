@@ -1,0 +1,5 @@
+cd ubicarse
+gitinit iniciar un repositorio local vacio
+git config user.name y email para que se sepa de quien es "deben ser las mismas de github" 
+git remote add (origin "nombre del repositorio remoto",puede ponerse cualquiera) link que se copia de el repositorio remoto en github
+ 
